@@ -116,3 +116,5 @@ The script logs errors to `mqtt_errors.log`. Adjust the logging level as needed.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+The project successfully showcases a robust solution for secure IoT communication and data storage. It has potential applications in various domains, including smart homes, industrial IoT, and connected health, where data security and integrity are paramount. The experience gained through this project aligns with my PhD interests in IoT security and blockchain technologies, and I look forward to exploring these areas further during my doctoral studies
