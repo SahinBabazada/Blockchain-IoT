@@ -1,0 +1,12 @@
+cryptography==42.0.5
+eth-account==0.11.2
+eth-hash==0.7.0
+eth-keyfile==0.8.1
+eth-keys==0.5.1
+eth-rlp==1.0.1
+eth-typing==4.2.2
+eth-utils==4.1.0
+eth_abi==5.1.0
+paho-mqtt==2.1.0
+web3==6.18.0
+
